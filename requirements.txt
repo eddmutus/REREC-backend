@@ -8,6 +8,7 @@ django-filter==25.1
 django-leaflet==0.32.0
 djangorestframework==3.16.0
 djangorestframework-gis==1.2.0
+gunicorn==22.0.0
 idna==3.10
 psycopg2-binary==2.9.10
 requests==2.32.3
